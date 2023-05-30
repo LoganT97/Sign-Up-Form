@@ -44,7 +44,7 @@ html {
 }
 img {
     height: 100%;
-    padding: 16px;
+    padding: 8px;
 }
 .right {
     width: 70%;
@@ -59,7 +59,7 @@ img {
     height: 35%;
     width: 100%;
     background-color: rgb(236, 236, 236);
-    font-size: 32px;
+    font-size: 24px;
     padding: 16px;
 }
 #info {
@@ -70,7 +70,7 @@ img {
     margin-left: 3%;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
-    line-height: 36px;
+    line-height: 26px;
 }
 .signup {
     height: 35%;
@@ -87,7 +87,7 @@ img {
     height: 30%;
     width: 100%;
     background-color: rgb(236, 236, 236);
-    font-size: 32px;
+    font-size: 24px;
     padding: 16px;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
@@ -119,14 +119,14 @@ a {
 }
 #title {
     margin-left: 3%;
-    margin-top: 3%;
+    margin-top: 1%;
 }
 form {
     display: grid;
     grid-template-columns: 45% 45%;
     margin-top: 2%;
     margin-left: 3%;
-    font-size: 24px;
+    font-size: 16px;
     font-family: 'roboto', sans-serif;
     letter-spacing: 1px;
   }
@@ -137,11 +137,11 @@ input {
     padding: 10px;
     box-sizing: border-box;
     margin-top: 1%;
-    margin-bottom: 5%;
+    margin-bottom: 4%;
     width: 100%;
     border-radius: 8px;
     border: 2px solid #E5E7EB;
-    font-size: 20px;
+    font-size: 16px;
 }
 input:focus {
     outline: none;
@@ -155,7 +155,7 @@ input:focus {
     border-color: rgb(247, 109, 109);
 }
 #password {
-    margin-bottom: 0;
+    margin-bottom: 4px;
 }
 
 
