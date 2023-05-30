@@ -22,7 +22,7 @@ The HTML structure consists of a simple form with the following fields:
 The form also includes a button to "Create Account", and a link for users who already have an account to "Log in".
 
 ## Live Link
-A live version of this sign in page can be found at the following URL: [Etch-a-Sketch Demo](https://logant97.github.io/Sketch-Pad/)
+A live version of this sign in page can be found at the following URL: [Mockup Sign In Page](https://logant97.github.io/Sign-Up-Form/)
 
 ## Usage
 To use this mockup form, fill out each of the input fields with your information and click the "Create Account" button. You can check the browser console to see the output.
